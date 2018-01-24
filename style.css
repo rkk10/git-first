@@ -1,4 +1,14 @@
 *{
     box-sizing: border-box;
     margin: 0px;
+    height: 100vh;
+}
+.header{
+    height: 75%;
+}
+.menu{
+    height: 25%;
+}
+.title{
+    height: 100%;
 }
